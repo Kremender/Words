@@ -1,0 +1,13 @@
+C:\Users\Kirby\Documents\Visual Studio 2015\Projects\Words\Words\obj\Release\Words.UI.resources
+C:\Users\Kirby\Documents\Visual Studio 2015\Projects\Words\Words\obj\Release\Words.csproj.GenerateResource.Cache
+C:\Users\Kirby\Documents\Visual Studio 2015\Projects\Words\Words\bin\Release\Words.exe.config
+C:\Users\Kirby\Documents\Visual Studio 2015\Projects\Words\Words\bin\Release\Words.exe.manifest
+C:\Users\Kirby\Documents\Visual Studio 2015\Projects\Words\Words\bin\Release\Words.application
+C:\Users\Kirby\Documents\Visual Studio 2015\Projects\Words\Words\bin\Release\Words.exe
+C:\Users\Kirby\Documents\Visual Studio 2015\Projects\Words\Words\bin\Release\Words.pdb
+C:\Users\Kirby\Documents\Visual Studio 2015\Projects\Words\Words\obj\Release\Words.Properties.Resources.resources
+C:\Users\Kirby\Documents\Visual Studio 2015\Projects\Words\Words\obj\Release\Words.exe.manifest
+C:\Users\Kirby\Documents\Visual Studio 2015\Projects\Words\Words\obj\Release\Words.application
+C:\Users\Kirby\Documents\Visual Studio 2015\Projects\Words\Words\obj\Release\Words.exe
+C:\Users\Kirby\Documents\Visual Studio 2015\Projects\Words\Words\obj\Release\Words.pdb
+C:\Users\Kirby\Documents\Visual Studio 2015\Projects\Words\Words\obj\Release\Words.csprojResolveAssemblyReference.cache
