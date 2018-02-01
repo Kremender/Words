@@ -24,3 +24,16 @@ C:\Users\Kirby\Documents\Visual Studio 2015\Projects\Words\Words\obj\Debug\Words
 C:\Users\Kirby\Documents\Visual Studio 2015\Projects\Words\Words\obj\Debug\Words.application
 C:\Users\Kirby\Documents\Visual Studio 2015\Projects\Words\Words\obj\Debug\Words.exe
 C:\Users\Kirby\Documents\Visual Studio 2015\Projects\Words\Words\obj\Debug\Words.pdb
+E:\Reps\Kiko\Words\Words\bin\Debug\Words.exe.config
+E:\Reps\Kiko\Words\Words\obj\Debug\Words.exe
+E:\Reps\Kiko\Words\Words\obj\Debug\Words.pdb
+E:\Reps\Kiko\Words\Words\bin\Debug\Words.exe.manifest
+E:\Reps\Kiko\Words\Words\bin\Debug\Words.application
+E:\Reps\Kiko\Words\Words\bin\Debug\Words.exe
+E:\Reps\Kiko\Words\Words\bin\Debug\Words.pdb
+E:\Reps\Kiko\Words\Words\obj\Debug\Words.csprojResolveAssemblyReference.cache
+E:\Reps\Kiko\Words\Words\obj\Debug\Words.UI.resources
+E:\Reps\Kiko\Words\Words\obj\Debug\Words.Properties.Resources.resources
+E:\Reps\Kiko\Words\Words\obj\Debug\Words.csproj.GenerateResource.Cache
+E:\Reps\Kiko\Words\Words\obj\Debug\Words.exe.manifest
+E:\Reps\Kiko\Words\Words\obj\Debug\Words.application
